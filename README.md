@@ -18,8 +18,5 @@ Clean, merge, and analyze data for performance evaluation.
 ✅ Produced a consolidated dataset  
 ✅ Enabled accurate performance tracking & resource allocation  
 
-## 📂 Files  
-- `analysis.ipynb` (Python notebook)    
-
 ---
 
